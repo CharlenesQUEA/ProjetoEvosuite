@@ -1,0 +1,4 @@
+[MASTER] 18:07:23.553 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.time.temporal.TemporalQuery<R> : Type points to itself
+[MASTER] 18:07:28.395 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 18:12:00.965 [TEST_EXECUTION_THREAD_0] ERROR AbstractStatement - Error assigning value of type TemporalQuery[] defined at statement TemporalQuery<String>[] temporalQueryArray0 = (TemporalQuery<String>[]) Array.newInstance(TemporalQuery.class, 3);, assignment statement: temporalQueryArray0[0] = (TemporalQuery<String>) temporalQueryArray0;; SUT=br.com.swconsultoria.nfe.util.WebServiceUtil
+[MASTER] 18:33:30.744 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize org.apache.commons.logging.impl.Log4JLogger: org/apache/log4j/Category

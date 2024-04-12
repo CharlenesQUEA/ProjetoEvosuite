@@ -1,0 +1,2 @@
+[MASTER] 20:06:32.135 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 20:09:55.841 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize org.apache.commons.logging.impl.Log4JLogger: org/apache/log4j/Category
